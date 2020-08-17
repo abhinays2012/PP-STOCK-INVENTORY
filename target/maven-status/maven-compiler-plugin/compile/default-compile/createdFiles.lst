@@ -1,0 +1,10 @@
+com\altimetrik\ee\demo\config\SwaggerConfig.class
+com\altimetrik\ee\demo\bean\ComponentDetailsBean.class
+com\altimetrik\ee\demo\service\ComponentDetailsService.class
+com\altimetrik\ee\demo\service\impl\ComponentDetailsServiceImpl.class
+com\altimetrik\ee\demo\bean\PairedComponentDetailsBean.class
+com\altimetrik\ee\demo\controller\ServiceController.class
+com\altimetrik\ee\demo\Application.class
+com\altimetrik\ee\demo\controller\Default.class
+com\altimetrik\ee\demo\entity\ComponentDetailsEntity.class
+com\altimetrik\ee\demo\repository\ComponentDetailsRepository.class

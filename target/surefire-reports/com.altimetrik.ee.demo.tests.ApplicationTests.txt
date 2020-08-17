@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.altimetrik.ee.demo.tests.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.576 s <<< FAILURE! - in com.altimetrik.ee.demo.tests.ApplicationTests
+initializationError(com.altimetrik.ee.demo.tests.ApplicationTests)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Could not load CacheAwareContextLoaderDelegate [class org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+Caused by: java.lang.NoClassDefFoundError: org/springframework/beans/BeanUtils
+Caused by: java.lang.ClassNotFoundException: org.springframework.beans.BeanUtils
+
